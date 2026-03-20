@@ -1,0 +1,2 @@
+Usei a extensao Prettier para formatar meu codigo automaticamente pressionando ctrl+shift+p, pesquisando format document with e escolhendo o Prettier.
+Ainda nao coloquei o link do localtunnel pois ele muda toda hora que executa.

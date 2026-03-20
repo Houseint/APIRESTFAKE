@@ -1,0 +1,1 @@
+export const API_URL="aqui vai a url do localtunnel"
