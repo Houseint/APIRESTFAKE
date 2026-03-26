@@ -1,1 +1,1 @@
-export const API_URL="aqui vai a url do localtunnel"
+export const API_URL="http://localhost:3000";

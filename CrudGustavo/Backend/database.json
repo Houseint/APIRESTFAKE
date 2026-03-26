@@ -1,0 +1,369 @@
+{
+  "people": [
+    {
+      "id": "1",
+      "firstname": "João",
+      "lastname": "Silva",
+      "email": "joaosilva@email.com ",
+      "phone": "19 10000 6789"
+    },
+    {
+      "id": "2",
+      "firstname": "Gustavo",
+      "lastname": "Paulino",
+      "email": "teste@gmail.com",
+      "phone": "19 10001 6790"
+    },
+    {
+      "id": "3",
+      "firstname": "João",
+      "lastname": "Silva",
+      "email": "joaosilva@email.com",
+      "phone": "19 10002 6791"
+    },
+    {
+      "id": "4",
+      "firstname": "Maria",
+      "lastname": "Santos",
+      "email": "mariasantos@email.com",
+      "phone": "19 10003 6792"
+    },
+    {
+      "id": "5",
+      "firstname": "Pedro",
+      "lastname": "Oliveira",
+      "email": "pedrooliveira@email.com",
+      "phone": "19 10004 6793"
+    },
+    {
+      "id": "6",
+      "firstname": "Ana",
+      "lastname": "Costa",
+      "email": "anacosta@email.com",
+      "phone": "19 10005 6794"
+    },
+    {
+      "id": "7",
+      "firstname": "Lucas",
+      "lastname": "Ferreira",
+      "email": "lucasferreira@email.com",
+      "phone": "19 10006 6795"
+    },
+    {
+      "id": "8",
+      "firstname": "Juliana",
+      "lastname": "Pereira",
+      "email": "julianapereira@email.com",
+      "phone": "19 10007 6796"
+    },
+    {
+      "id": "9",
+      "firstname": "Rafael",
+      "lastname": "Almeida",
+      "email": "rafaelalmeida@email.com",
+      "phone": "19 10008 6797"
+    },
+    {
+      "id": "10",
+      "firstname": "Fernanda",
+      "lastname": "Rodrigues",
+      "email": "fernandarodrigues@email.com",
+      "phone": "19 10009 6798"
+    },
+    {
+      "id": "11",
+      "firstname": "Bruno",
+      "lastname": "Nascimento",
+      "email": "brunonascimento@email.com",
+      "phone": "19 10010 6799"
+    },
+    {
+      "id": "12",
+      "firstname": "Camila",
+      "lastname": "Lima",
+      "email": "camillalima@email.com",
+      "phone": "19 10011 6800"
+    },
+    {
+      "id": "13",
+      "firstname": "Gustavo",
+      "lastname": "Araújo",
+      "email": "gustavoraraujo@email.com",
+      "phone": "19 10012 6801"
+    },
+    {
+      "id": "14",
+      "firstname": "Larissa",
+      "lastname": "Carvalho",
+      "email": "larissacarvalho@email.com",
+      "phone": "19 10013 6802"
+    },
+    {
+      "id": "15",
+      "firstname": "Diego",
+      "lastname": "Gomes",
+      "email": "diegogomes@email.com",
+      "phone": "19 10014 6803"
+    },
+    {
+      "id": "16",
+      "firstname": "Patrícia",
+      "lastname": "Martins",
+      "email": "patriciamartins@email.com",
+      "phone": "19 10015 6804"
+    },
+    {
+      "id": "17",
+      "firstname": "Thiago",
+      "lastname": "Barros",
+      "email": "thiagobarros@email.com",
+      "phone": "19 10016 6805"
+    },
+    {
+      "id": "18",
+      "firstname": "Aline",
+      "lastname": "Ribeiro",
+      "email": "alineribeiro@email.com",
+      "phone": "19 10017 6806"
+    },
+    {
+      "id": "19",
+      "firstname": "Felipe",
+      "lastname": "Teixeira",
+      "email": "felipeteixeira@email.com",
+      "phone": "19 10018 6807"
+    },
+    {
+      "id": "20",
+      "firstname": "Vanessa",
+      "lastname": "Mendes",
+      "email": "vanessamendes@email.com",
+      "phone": "19 10019 6808"
+    },
+    {
+      "id": "21",
+      "firstname": "Rodrigo",
+      "lastname": "Cardoso",
+      "email": "rodrigocardoso@email.com",
+      "phone": "19 10020 6809"
+    },
+    {
+      "id": "22",
+      "firstname": "Tatiane",
+      "lastname": "Souza",
+      "email": "tatiaoesouza@email.com",
+      "phone": "19 10021 6810"
+    },
+    {
+      "id": "23",
+      "firstname": "Marcos",
+      "lastname": "Dias",
+      "email": "marcosdias@email.com",
+      "phone": "19 10022 6811"
+    },
+    {
+      "id": "24",
+      "firstname": "Bianca",
+      "lastname": "Monteiro",
+      "email": "biancamonteiro@email.com",
+      "phone": "19 10023 6812"
+    },
+    {
+      "id": "25",
+      "firstname": "André",
+      "lastname": "Nunes",
+      "email": "andrenunes@email.com",
+      "phone": "19 10024 6813"
+    },
+    {
+      "id": "26",
+      "firstname": "Isabela",
+      "lastname": "Moreira",
+      "email": "isabelamoreira@email.com",
+      "phone": "19 10025 6814"
+    },
+    {
+      "id": "27",
+      "firstname": "Eduardo",
+      "lastname": "Freitas",
+      "email": "eduardofreitas@email.com",
+      "phone": "19 10026 6815"
+    },
+    {
+      "id": "28",
+      "firstname": "Renata",
+      "lastname": "Campos",
+      "email": "renatacampos@email.com",
+      "phone": "19 10027 6816"
+    },
+    {
+      "id": "29",
+      "firstname": "Alexandre",
+      "lastname": "Pinto",
+      "email": "alexandrepinto@email.com",
+      "phone": "19 10028 6817"
+    },
+    {
+      "id": "30",
+      "firstname": "Priscila",
+      "lastname": "Azevedo",
+      "email": "priscilaazevedo@email.com",
+      "phone": "19 10029 6818"
+    },
+    {
+      "id": "31",
+      "firstname": "Henrique",
+      "lastname": "Cavalcanti",
+      "email": "henriquecavalcanti@email.com",
+      "phone": "19 10030 6819"
+    },
+    {
+      "id": "32",
+      "firstname": "Daniela",
+      "lastname": "Ramos",
+      "email": "danielaramos@email.com",
+      "phone": "19 10031 6820"
+    },
+    {
+      "id": "33",
+      "firstname": "Leandro",
+      "lastname": "Castro",
+      "email": "leandrocastro@email.com",
+      "phone": "19 10032 6821"
+    },
+    {
+      "id": "34",
+      "firstname": "Simone",
+      "lastname": "Cruz",
+      "email": "simonecruz@email.com",
+      "phone": "19 10033 6822"
+    },
+    {
+      "id": "35",
+      "firstname": "Fábio",
+      "lastname": "Correia",
+      "email": "fabiocorreia@email.com",
+      "phone": "19 10034 6823"
+    },
+    {
+      "id": "36",
+      "firstname": "Natalia",
+      "lastname": "Vieira",
+      "email": "nataliavieira@email.com",
+      "phone": "19 10035 6824"
+    },
+    {
+      "id": "37",
+      "firstname": "Caio",
+      "lastname": "Lopes",
+      "email": "caiolopes@email.com",
+      "phone": "19 10036 6825"
+    },
+    {
+      "id": "38",
+      "firstname": "Adriana",
+      "lastname": "Moura",
+      "email": "adrianamoura@email.com",
+      "phone": "19 10037 6826"
+    },
+    {
+      "id": "39",
+      "firstname": "Vinicius",
+      "lastname": "Rocha",
+      "email": "viniciusrocha@email.com",
+      "phone": "19 10038 6827"
+    },
+    {
+      "id": "40",
+      "firstname": "Mônica",
+      "lastname": "Cunha",
+      "email": "monicacunha@email.com",
+      "phone": "19 10039 6828"
+    },
+    {
+      "id": "41",
+      "firstname": "Marcelo",
+      "lastname": "Figueiredo",
+      "email": "marcelofigueiredo@email.com",
+      "phone": "19 10040 6829"
+    },
+    {
+      "id": "42",
+      "firstname": "Carolina",
+      "lastname": "Borges",
+      "email": "carolinaborges@email.com",
+      "phone": "19 10041 6830"
+    },
+    {
+      "id": "43",
+      "firstname": "Sergio",
+      "lastname": "Pires",
+      "email": "sergiopires@email.com",
+      "phone": "19 10042 6831"
+    },
+    {
+      "id": "44",
+      "firstname": "Amanda",
+      "lastname": "Melo",
+      "email": "amandamelo@email.com",
+      "phone": "19 10043 6832"
+    },
+    {
+      "id": "45",
+      "firstname": "Roberto",
+      "lastname": "Xavier",
+      "email": "robertoxavier@email.com",
+      "phone": "19 10044 6833"
+    },
+    {
+      "id": "46",
+      "firstname": "Letícia",
+      "lastname": "Andrade",
+      "email": "leticiaandrade@email.com",
+      "phone": "19 10045 6834"
+    },
+    {
+      "id": "47",
+      "firstname": "Danilo",
+      "lastname": "Machado",
+      "email": "danilomachado@email.com",
+      "phone": "19 10046 6835"
+    },
+    {
+      "id": "48",
+      "firstname": "Mariana",
+      "lastname": "Batista",
+      "email": "marianabatista@email.com",
+      "phone": "19 10047 6836"
+    },
+    {
+      "id": "49",
+      "firstname": "Claudio",
+      "lastname": "Esteves",
+      "email": "claudioesteves@email.com",
+      "phone": "19 10048 6837"
+    },
+    {
+      "id": "50",
+      "firstname": "Giovanna",
+      "lastname": "Fonseca",
+      "email": "giovannafonseca@email.com",
+      "phone": "19 10049 6838"
+    },
+    {
+      "firstName": "Jeronimo",
+      "lastName": "Santos",
+      "email": "jeronimo@gmail.com",
+      "phone": "19 12123 6547",
+      "id": "mWw1S-lnovs"
+    },
+    {
+      "firstName": "PAPAGAIO",
+      "lastName": "SILVA",
+      "email": "papa@gmail.com",
+      "phone": "19 12235 8410",
+      "id": "IfhrM8ZXb0w"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
