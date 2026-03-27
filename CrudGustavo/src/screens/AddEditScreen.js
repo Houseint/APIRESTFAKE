@@ -12,9 +12,11 @@ export default function AddEditScreen({ route, navigation }) {
   const [lastName, setLastName] = useState(person?.lastName || "");
   const [email, setEmail] = useState(person?.email || "");
   const [phone, setPhone] = useState(person?.phone || "");
-
+  const [firstname, setfirstname] = useState(person?.firstname || "");
+  const [lastname, setlastname] = useState(person?.lastname || "");
+  
   async function save() {
-    const data = { firstName, lastName, email, phone };
+    const data = { firstName, lastName,firstname, lastname, email, phone };
 
     if (person) {
       await updatePerson(person.id, data);
@@ -31,7 +33,6 @@ export default function AddEditScreen({ route, navigation }) {
         value={firstName}
         onChangeText={setFirstName}
       />
-
       <TextInput
         placeholder="Last Name"
         value={lastName}

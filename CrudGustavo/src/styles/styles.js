@@ -26,6 +26,9 @@ fontSize:14
 email:{
 fontSize:10
 },
+phone:{
+fontSize:13
+},
 button:{
 padding:10,
 backgroundColor:"#4CAF50",

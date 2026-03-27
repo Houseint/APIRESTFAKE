@@ -1,20 +1,6 @@
 {
   "people": [
     {
-      "id": "1",
-      "firstname": "João",
-      "lastname": "Silva",
-      "email": "joaosilva@email.com ",
-      "phone": "19 10000 6789"
-    },
-    {
-      "id": "2",
-      "firstname": "Gustavo",
-      "lastname": "Paulino",
-      "email": "teste@gmail.com",
-      "phone": "19 10001 6790"
-    },
-    {
       "id": "3",
       "firstname": "João",
       "lastname": "Silva",
@@ -351,18 +337,11 @@
       "phone": "19 10049 6838"
     },
     {
-      "firstName": "Jeronimo",
+      "firstName": "Rafael",
       "lastName": "Santos",
-      "email": "jeronimo@gmail.com",
-      "phone": "19 12123 6547",
-      "id": "mWw1S-lnovs"
-    },
-    {
-      "firstName": "PAPAGAIO",
-      "lastName": "SILVA",
-      "email": "papa@gmail.com",
-      "phone": "19 12235 8410",
-      "id": "IfhrM8ZXb0w"
+      "email": "rafael@gmail.com",
+      "phone": "19 25254 3652",
+      "id": "MeHFnqPVqJY"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

@@ -46,6 +46,7 @@ function CardPersonal({ item, navigation, refresh }) {
     <View style={styles.card}>
       <View>
         <Text style={styles.name}>
+          {item.firstName} {item.lastName}
           {item.firstname} {item.lastname}
         </Text>
         <Text style={styles.email}>{item.email}</Text>
