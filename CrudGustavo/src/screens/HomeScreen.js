@@ -1,11 +1,12 @@
 import React, { useEffect, useState } from "react";
-import { View, Text, FlatList, Button } from "react-native";
+import { View, Text, FlatList, Button, TextInput } from "react-native";
 import styles from "../styles/styles";
 import { getPeople, deletePerson } from "../servers/peopleCrud";
 
 export default function HomeScreen({ navigation }) {
   // estado da lista
   const [people, setPeople] = useState([]);
+  const [filtro, setFiltro] = useState([]);
 
   // função para carregar dados
   async function loadPeople() {

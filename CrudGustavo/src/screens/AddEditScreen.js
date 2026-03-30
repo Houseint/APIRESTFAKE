@@ -30,12 +30,12 @@ export default function AddEditScreen({ route, navigation }) {
     <View style={styles.container}>
       <TextInput
         placeholder="First Name"
-        value={firstName}
+        value={firstName || firstname}
         onChangeText={setFirstName}
       />
       <TextInput
         placeholder="Last Name"
-        value={lastName}
+        value={lastName || lastname}
         onChangeText={setLastName}
       />
 
