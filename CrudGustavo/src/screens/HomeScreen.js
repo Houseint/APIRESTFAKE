@@ -6,7 +6,7 @@ import { getPeople, deletePerson } from "../servers/peopleCrud";
 export default function HomeScreen({ navigation }) {
   // estado da lista
   const [people, setPeople] = useState([]);
-  const [filtro, setFiltro] = useState([]);
+  const [filtro, setFiltro] = useState("");
 
   // função para carregar dados
   async function loadPeople() {
@@ -18,17 +18,28 @@ export default function HomeScreen({ navigation }) {
   useEffect(() => {
     loadPeople();
   }, []);
+  const nomesFiltro = people.filter(pessoa => {
+    const pessoaNome = `${pessoa.firstName || pessoa.firstname} ${pessoa.lastName || pessoa.lastname}`.toLowerCase().trim();
+    //apanhei pra fazer o filtro pegar o firstname e firstName, nada que o bom e velho Google nao ajude
+    return pessoaNome.includes(filtro.toLowerCase().trim());//.trim() tira o espaço que o usuario digita pra nao bugar o filtro
+  });
 
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Pessoas</Text>
+      <TextInput
+        style={styles.input}
+        placeholder="Procure aqui"
+        value={filtro}
+        onChangeText= {setFiltro}
+        />
 
       <Button
         title="Adicionar Pessoa"
         onPress={() => navigation.navigate("AddEdit")}
       />
       <FlatList
-        data={people}
+        data={nomesFiltro}
         keyExtractor={(item) => item.id.toString()}
         renderItem={({ item }) => (
           <CardPersonal

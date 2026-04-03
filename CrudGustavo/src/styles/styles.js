@@ -33,5 +33,12 @@ button:{
 padding:10,
 backgroundColor:"#4CAF50",
 borderRadius:5
+},
+input:{
+height:40,borderColor:"#ccc",
+borderWidth:1,
+borderRadius:5,
+paddingHorizontal:10,
+marginBottom:20
 }
 });
