@@ -70,3 +70,6 @@ npx expo start
 **Gustavo** - Projeto acadêmico
 
 ---
+LINK VÍDEO: https://youtu.be/sh7-obqDg7Y
+
+[LER DESCRIÇÃO DO VÍDEO ANTES DE ASSISTIR]
